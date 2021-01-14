@@ -2,8 +2,8 @@
 
   const DB_HOST    = "localhost";
   const DB_NAME    = "recette-facile";
-  const DB_LOGIN   = "evab";
-  const DB_PASS    = "paprika";
+  const DB_LOGIN   = "marmiton";
+  const DB_PASS    = "jaimeLesGnocchi";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
